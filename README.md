@@ -30,3 +30,10 @@
 11. First register and then login
 
 12. Admin login details  username=admin and password=1234.
+
+
+## Screenshots
+![Image of adduser](https://github.com/shahmeet977/E-Case-Management/blob/master/screenshots/Admin_Dashboard.jpeg)
+![Image of adduser](https://github.com/shahmeet977/E-Case-Management/blob/master/screenshots/Doctor_Dashboard.jpeg)
+![Image of adduser](https://github.com/shahmeet977/E-Case-Management/blob/master/screenshots/Patient_Dashboard.jpeg)
+![Image of adduser](https://github.com/shahmeet977/E-Case-Management/blob/master/screenshots/Appointment_Booking.jpeg)
