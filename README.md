@@ -37,3 +37,7 @@
 ![Image of adduser](https://github.com/shahmeet977/E-Case-Management/blob/master/screenshots/Doctor_Dashboard.jpeg)
 ![Image of adduser](https://github.com/shahmeet977/E-Case-Management/blob/master/screenshots/Patient_Dashboard.jpeg)
 ![Image of adduser](https://github.com/shahmeet977/E-Case-Management/blob/master/screenshots/Appointment_Booking.jpeg)
+![Image of adduser](https://github.com/shahmeet977/E-Case-Management/blob/master/screenshots/Bill_Generation.jpeg)
+![Image of adduser](https://github.com/shahmeet977/E-Case-Management/blob/master/screenshots/Prescription_Of_Patients.jpeg)
+![Image of adduser](https://github.com/shahmeet977/E-Case-Management/blob/master/screenshots/Slot_Schedule.jpeg)
+![Image of adduser](https://github.com/shahmeet977/E-Case-Management/blob/master/screenshots/Doctor_Profile_approval_Request.jpeg)
